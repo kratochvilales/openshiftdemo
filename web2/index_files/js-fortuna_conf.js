@@ -1,0 +1,2 @@
+
+var FORTUNA={_run:[],_load:[],_paths:{},components:[],run:function(b,a){a=a?FORTUNA._load:FORTUNA._run;b&&(a&&"function"===typeof a.push?a.push(b):b())},localization:{close:"Zav\u0159\u00edt","reset-combi-values":"Vymazat hodnoty vkladu maxikombiku?"}};
